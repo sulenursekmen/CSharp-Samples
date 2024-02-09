@@ -1,0 +1,7 @@
+D:\C-Project\MaskTracking\WorkAround\bin\Debug\WorkAround.exe.config
+D:\C-Project\MaskTracking\WorkAround\bin\Debug\WorkAround.exe
+D:\C-Project\MaskTracking\WorkAround\bin\Debug\WorkAround.pdb
+D:\C-Project\MaskTracking\WorkAround\obj\Debug\WorkAround.csproj.AssemblyReference.cache
+D:\C-Project\MaskTracking\WorkAround\obj\Debug\WorkAround.csproj.CoreCompileInputs.cache
+D:\C-Project\MaskTracking\WorkAround\obj\Debug\WorkAround.exe
+D:\C-Project\MaskTracking\WorkAround\obj\Debug\WorkAround.pdb
