@@ -1,5 +1,6 @@
 ﻿// Program.cs: Ana program dosyası
 
+using Intro.DataAccess.Concretes;
 using Intro.Entities;
 using System;
 
@@ -28,14 +29,70 @@ class Program
         }
 
         // Kurs yöneticisinin oluşturulması
-        CourseManager courseManager = new CourseManager();
+        CourseManager courseManager = new(new CourseDal());
 
         // Kursların yeniden alınması ve listelenmesi
-        Course[] coursesFromManager = courseManager.GetAll();
+        List<Course> coursesFromManager = courseManager.GetAll();
         Console.WriteLine("\n----- Tüm Kurslar (Yöneticiden) -----");
         foreach (Course course in coursesFromManager)
         {
             Console.WriteLine(course.Name + " / " + course.Description);
+        }
+
+        IndividualCustomer customer1 = new IndividualCustomer();
+        customer1.Id = 1;
+        customer1.NationalIdentity = "12345678910";
+        customer1.Firstname = "Aslı";
+        customer1.Lastname = "Karayiğit";
+        customer1.CustomerNumber = "123456";
+
+        IndividualCustomer customer2 = new IndividualCustomer();
+        customer2.Id = 2;
+        customer2.NationalIdentity = "123434534530";
+        customer2.Firstname = "Özgür";
+        customer2.Lastname = "Atılgan";
+        customer2.CustomerNumber = "123457";
+
+
+        CorporateCustomer customer3 = new CorporateCustomer();
+        customer3.Id = 3;
+        customer3.Name = "Kodlamaio";
+        customer3.CustomerNumber = "345345";
+        customer3.TaxNumber = "435346354654";
+
+        CorporateCustomer customer4 = new CorporateCustomer();
+        customer4.Id = 4;
+        customer4.Name = "Sullens Code";
+        customer4.CustomerNumber = "34345345";
+        customer4.TaxNumber = "43530987456";
+
+        int number1 = 10;
+        int number2 = 20;
+        number1 = number2;
+        number2 = 50;
+        Console.WriteLine(number1);
+
+        //value types --> int,bool,double vb.
+
+        string[] cities1 = { "Ankara", "İstanbul", "İzmir" };
+        string[] cities2 = { "Bursa", "Bolu", "Diyarbakır" };
+
+        cities2 = cities1;
+        cities1[0] = "Adana";
+        Console.WriteLine(cities2[0]);
+
+        //reference types --> array,class,interface... 
+
+        BaseCustomer[] baseCustomer = {customer1,customer2,customer3,customer4 } ;
+
+        // Polymorphism 
+        foreach (BaseCustomer customer in baseCustomer)
+        {
+            //if (customer is IndividualCustomer)
+            //{
+            //   // ((IndividualCustomer)customer).Id;
+            //}
+            Console.WriteLine(customer.CustomerNumber);
         }
     }
 }
