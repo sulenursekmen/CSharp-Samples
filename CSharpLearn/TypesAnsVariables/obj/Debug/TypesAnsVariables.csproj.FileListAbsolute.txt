@@ -1,0 +1,7 @@
+D:\C-Project\CSharpLearn\TypesAnsVariables\bin\Debug\TypesAnsVariables.exe.config
+D:\C-Project\CSharpLearn\TypesAnsVariables\bin\Debug\TypesAnsVariables.exe
+D:\C-Project\CSharpLearn\TypesAnsVariables\bin\Debug\TypesAnsVariables.pdb
+D:\C-Project\CSharpLearn\TypesAnsVariables\obj\Debug\TypesAnsVariables.csproj.AssemblyReference.cache
+D:\C-Project\CSharpLearn\TypesAnsVariables\obj\Debug\TypesAnsVariables.csproj.CoreCompileInputs.cache
+D:\C-Project\CSharpLearn\TypesAnsVariables\obj\Debug\TypesAnsVariables.exe
+D:\C-Project\CSharpLearn\TypesAnsVariables\obj\Debug\TypesAnsVariables.pdb
