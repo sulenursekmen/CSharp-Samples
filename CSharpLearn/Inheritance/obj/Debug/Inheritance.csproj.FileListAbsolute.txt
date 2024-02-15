@@ -1,0 +1,7 @@
+D:\C-Project\CSharpLearn\Inheritance\bin\Debug\Inheritance.exe.config
+D:\C-Project\CSharpLearn\Inheritance\bin\Debug\Inheritance.exe
+D:\C-Project\CSharpLearn\Inheritance\bin\Debug\Inheritance.pdb
+D:\C-Project\CSharpLearn\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+D:\C-Project\CSharpLearn\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+D:\C-Project\CSharpLearn\Inheritance\obj\Debug\Inheritance.exe
+D:\C-Project\CSharpLearn\Inheritance\obj\Debug\Inheritance.pdb
