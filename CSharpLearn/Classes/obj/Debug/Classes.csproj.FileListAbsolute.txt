@@ -1,0 +1,7 @@
+D:\C-Project\CSharpLearn\Classes\bin\Debug\Classes.exe.config
+D:\C-Project\CSharpLearn\Classes\bin\Debug\Classes.exe
+D:\C-Project\CSharpLearn\Classes\bin\Debug\Classes.pdb
+D:\C-Project\CSharpLearn\Classes\obj\Debug\Classes.csproj.AssemblyReference.cache
+D:\C-Project\CSharpLearn\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+D:\C-Project\CSharpLearn\Classes\obj\Debug\Classes.exe
+D:\C-Project\CSharpLearn\Classes\obj\Debug\Classes.pdb

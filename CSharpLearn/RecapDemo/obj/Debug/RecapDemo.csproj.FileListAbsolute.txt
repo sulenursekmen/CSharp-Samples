@@ -1,0 +1,10 @@
+D:\C-Project\CSharpLearn\RecapDemo\bin\Debug\RecapDemo.exe.config
+D:\C-Project\CSharpLearn\RecapDemo\bin\Debug\RecapDemo.exe
+D:\C-Project\CSharpLearn\RecapDemo\bin\Debug\RecapDemo.pdb
+D:\C-Project\CSharpLearn\RecapDemo\obj\Debug\RecapDemo.csproj.AssemblyReference.cache
+D:\C-Project\CSharpLearn\RecapDemo\obj\Debug\RecapDemo.Form1.resources
+D:\C-Project\CSharpLearn\RecapDemo\obj\Debug\RecapDemo.Properties.Resources.resources
+D:\C-Project\CSharpLearn\RecapDemo\obj\Debug\RecapDemo.csproj.GenerateResource.cache
+D:\C-Project\CSharpLearn\RecapDemo\obj\Debug\RecapDemo.csproj.CoreCompileInputs.cache
+D:\C-Project\CSharpLearn\RecapDemo\obj\Debug\RecapDemo.exe
+D:\C-Project\CSharpLearn\RecapDemo\obj\Debug\RecapDemo.pdb
