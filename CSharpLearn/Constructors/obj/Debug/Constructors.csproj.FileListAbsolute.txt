@@ -1,0 +1,7 @@
+D:\C-Project\CSharpLearn\Constructors\bin\Debug\Constructors.exe.config
+D:\C-Project\CSharpLearn\Constructors\bin\Debug\Constructors.exe
+D:\C-Project\CSharpLearn\Constructors\bin\Debug\Constructors.pdb
+D:\C-Project\CSharpLearn\Constructors\obj\Debug\Constructors.csproj.AssemblyReference.cache
+D:\C-Project\CSharpLearn\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+D:\C-Project\CSharpLearn\Constructors\obj\Debug\Constructors.exe
+D:\C-Project\CSharpLearn\Constructors\obj\Debug\Constructors.pdb
