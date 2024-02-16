@@ -1,0 +1,7 @@
+D:\C-Project\CSharpLearn\ReferenceTypes\bin\Debug\ReferenceTypes.exe.config
+D:\C-Project\CSharpLearn\ReferenceTypes\bin\Debug\ReferenceTypes.exe
+D:\C-Project\CSharpLearn\ReferenceTypes\bin\Debug\ReferenceTypes.pdb
+D:\C-Project\CSharpLearn\ReferenceTypes\obj\Debug\ReferenceTypes.csproj.AssemblyReference.cache
+D:\C-Project\CSharpLearn\ReferenceTypes\obj\Debug\ReferenceTypes.csproj.CoreCompileInputs.cache
+D:\C-Project\CSharpLearn\ReferenceTypes\obj\Debug\ReferenceTypes.exe
+D:\C-Project\CSharpLearn\ReferenceTypes\obj\Debug\ReferenceTypes.pdb
