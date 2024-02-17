@@ -1,0 +1,7 @@
+D:\C-Project\CSharpLearn\Generics\bin\Debug\Generics.exe.config
+D:\C-Project\CSharpLearn\Generics\bin\Debug\Generics.exe
+D:\C-Project\CSharpLearn\Generics\bin\Debug\Generics.pdb
+D:\C-Project\CSharpLearn\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
+D:\C-Project\CSharpLearn\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+D:\C-Project\CSharpLearn\Generics\obj\Debug\Generics.exe
+D:\C-Project\CSharpLearn\Generics\obj\Debug\Generics.pdb
