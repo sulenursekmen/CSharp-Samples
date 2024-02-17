@@ -1,0 +1,7 @@
+D:\C-Project\CSharpLearn\LinqProject\bin\Debug\LinqProject.exe.config
+D:\C-Project\CSharpLearn\LinqProject\bin\Debug\LinqProject.exe
+D:\C-Project\CSharpLearn\LinqProject\bin\Debug\LinqProject.pdb
+D:\C-Project\CSharpLearn\LinqProject\obj\Debug\LinqProject.csproj.AssemblyReference.cache
+D:\C-Project\CSharpLearn\LinqProject\obj\Debug\LinqProject.csproj.CoreCompileInputs.cache
+D:\C-Project\CSharpLearn\LinqProject\obj\Debug\LinqProject.exe
+D:\C-Project\CSharpLearn\LinqProject\obj\Debug\LinqProject.pdb
