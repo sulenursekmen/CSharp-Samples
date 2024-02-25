@@ -12,6 +12,7 @@ namespace Demo.DataAccess.Concretes
     {
         private List<Course> courses = new List<Course>();
 
+        #region Add,Delete,Update
         public void AddCourse(Course course)
         {
             Console.WriteLine("Kurs Eklendi");
@@ -39,7 +40,9 @@ namespace Demo.DataAccess.Concretes
                 courses.Remove(courseToRemove);
             }
         }
+        #endregion
 
+        #region GetList
         public Course GetCourseById(int id)
         {
             return courses.Find(c => c.Id == id);
@@ -49,5 +52,7 @@ namespace Demo.DataAccess.Concretes
         {
             return courses;
         }
+        #endregion
+       
     }
 }
