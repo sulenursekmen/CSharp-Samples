@@ -1,0 +1,12 @@
+D:\C-Project\DotnetWebApiProject\Core\bin\Debug\net8.0\Core.deps.json
+D:\C-Project\DotnetWebApiProject\Core\bin\Debug\net8.0\Core.dll
+D:\C-Project\DotnetWebApiProject\Core\bin\Debug\net8.0\Core.pdb
+D:\C-Project\DotnetWebApiProject\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Project\DotnetWebApiProject\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+D:\C-Project\DotnetWebApiProject\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+D:\C-Project\DotnetWebApiProject\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+D:\C-Project\DotnetWebApiProject\Core\obj\Debug\net8.0\Core.sourcelink.json
+D:\C-Project\DotnetWebApiProject\Core\obj\Debug\net8.0\Core.dll
+D:\C-Project\DotnetWebApiProject\Core\obj\Debug\net8.0\refint\Core.dll
+D:\C-Project\DotnetWebApiProject\Core\obj\Debug\net8.0\Core.pdb
+D:\C-Project\DotnetWebApiProject\Core\obj\Debug\net8.0\ref\Core.dll
