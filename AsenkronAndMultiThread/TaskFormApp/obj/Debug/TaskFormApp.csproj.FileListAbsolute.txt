@@ -1,0 +1,11 @@
+D:\C-Project\AsenkronAndMultiThread\TaskFormApp\bin\Debug\TaskFormApp.exe.config
+D:\C-Project\AsenkronAndMultiThread\TaskFormApp\bin\Debug\TaskFormApp.exe
+D:\C-Project\AsenkronAndMultiThread\TaskFormApp\bin\Debug\TaskFormApp.pdb
+D:\C-Project\AsenkronAndMultiThread\TaskFormApp\obj\Debug\TaskFormApp.csproj.AssemblyReference.cache
+D:\C-Project\AsenkronAndMultiThread\TaskFormApp\obj\Debug\TaskFormApp.Form1.resources
+D:\C-Project\AsenkronAndMultiThread\TaskFormApp\obj\Debug\TaskFormApp.Properties.Resources.resources
+D:\C-Project\AsenkronAndMultiThread\TaskFormApp\obj\Debug\TaskFormApp.csproj.GenerateResource.cache
+D:\C-Project\AsenkronAndMultiThread\TaskFormApp\obj\Debug\TaskFormApp.csproj.CoreCompileInputs.cache
+D:\C-Project\AsenkronAndMultiThread\TaskFormApp\obj\Debug\TaskFormApp.exe
+D:\C-Project\AsenkronAndMultiThread\TaskFormApp\obj\Debug\TaskFormApp.pdb
+D:\C-Project\AsenkronAndMultiThread\TaskFormApp\bin\Debug\TaskFormApp.txt
