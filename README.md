@@ -10,6 +10,7 @@ This repository may include the following topics:
 - Object-oriented programming (OOP) topics
 - Examples of data structures and algorithms
 - ASP.NET web applications
+- Asynchronous and Multi Thread Coding
 - and more...
 
 ## How to Contribute?
@@ -34,6 +35,7 @@ Bu depo aşağıdaki konuları içerebilir:
 - Nesne yönelimli programlama (OOP) konuları
 - Veri yapıları ve algoritmaları örnekleri
 - ASP.NET web uygulamaları
+- Asenkron ve Multi Thread Kodlama
 - ve daha fazlası...
 
 ## Nasıl Katkıda Bulunulur?
