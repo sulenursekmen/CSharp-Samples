@@ -25,7 +25,7 @@ namespace TaskFormApp
         private async void btnReadFile_Click(object sender, EventArgs e)
         {
             //string data=ReadFile();
-<<<<<<< HEAD
+
             //string data=await ReadFileAsync();
 
             string data = String.Empty;
@@ -36,9 +36,6 @@ namespace TaskFormApp
 
             data = await read; 
 
-=======
-            string data=await ReadFileAsync();
->>>>>>> 66440e7425193cff83a32d146c4edf8866662669
 
             richTextBox1.Text = data;
         }
@@ -97,7 +94,6 @@ namespace TaskFormApp
             }
         }
 
-<<<<<<< HEAD
         //without async-await
 
         private Task<string> ReadFileAsync2()
@@ -112,9 +108,7 @@ namespace TaskFormApp
         {
 
         }
-=======
 
->>>>>>> 66440e7425193cff83a32d146c4edf8866662669
     }
 }
 

@@ -1,0 +1,7 @@
+D:\C-Project\AsenkronAndMultiThread\TaskConsoleApp\bin\Debug\TaskConsoleApp.exe.config
+D:\C-Project\AsenkronAndMultiThread\TaskConsoleApp\bin\Debug\TaskConsoleApp.exe
+D:\C-Project\AsenkronAndMultiThread\TaskConsoleApp\bin\Debug\TaskConsoleApp.pdb
+D:\C-Project\AsenkronAndMultiThread\TaskConsoleApp\obj\Debug\TaskConsoleApp.csproj.AssemblyReference.cache
+D:\C-Project\AsenkronAndMultiThread\TaskConsoleApp\obj\Debug\TaskConsoleApp.csproj.CoreCompileInputs.cache
+D:\C-Project\AsenkronAndMultiThread\TaskConsoleApp\obj\Debug\TaskConsoleApp.exe
+D:\C-Project\AsenkronAndMultiThread\TaskConsoleApp\obj\Debug\TaskConsoleApp.pdb

@@ -1,0 +1,10 @@
+D:\C-Project\AsenkronAndMultiThread\TaskThreadApp\bin\Debug\TaskThreadApp.exe.config
+D:\C-Project\AsenkronAndMultiThread\TaskThreadApp\bin\Debug\TaskThreadApp.exe
+D:\C-Project\AsenkronAndMultiThread\TaskThreadApp\bin\Debug\TaskThreadApp.pdb
+D:\C-Project\AsenkronAndMultiThread\TaskThreadApp\obj\Debug\TaskThreadApp.csproj.AssemblyReference.cache
+D:\C-Project\AsenkronAndMultiThread\TaskThreadApp\obj\Debug\TaskThreadApp.Form1.resources
+D:\C-Project\AsenkronAndMultiThread\TaskThreadApp\obj\Debug\TaskThreadApp.Properties.Resources.resources
+D:\C-Project\AsenkronAndMultiThread\TaskThreadApp\obj\Debug\TaskThreadApp.csproj.GenerateResource.cache
+D:\C-Project\AsenkronAndMultiThread\TaskThreadApp\obj\Debug\TaskThreadApp.csproj.CoreCompileInputs.cache
+D:\C-Project\AsenkronAndMultiThread\TaskThreadApp\obj\Debug\TaskThreadApp.exe
+D:\C-Project\AsenkronAndMultiThread\TaskThreadApp\obj\Debug\TaskThreadApp.pdb
