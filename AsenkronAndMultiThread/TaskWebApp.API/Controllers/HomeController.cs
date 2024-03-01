@@ -7,18 +7,37 @@ namespace TaskWebApp.API.Controllers
     [ApiController]
     public class HomeController : ControllerBase
     {
-        [HttpGet]
-        public async Task<IActionResult> GetContentAsync()
+        //Dependency Injection
+        private readonly ILogger<HomeController> _logger;
+        public HomeController(ILogger<HomeController> logger)
         {
-            // 
+            _logger = logger;
+        }
+        //CancellationToken
+        [HttpGet]
+        public async Task<IActionResult> GetContentAsync(CancellationToken token)
+        {
+            try
+            {
+                _logger.LogInformation("Started Request");
 
-            var myTask = new HttpClient().GetStringAsync("https://www.google.com");
+                await Task.Delay(5000, token);
 
-            // other transactions
+                //Thread.Sleep(5000);
+                var myTask = new HttpClient().GetStringAsync("https://www.google.com");
 
-            var data = await myTask;
+                // other transactions
 
-            return Ok(data);
+                var data = await myTask;
+
+                _logger.LogInformation("Finished Request");
+                return Ok(data);
+            }
+            catch (Exception ex)
+            {
+                _logger.LogInformation("Cancelled request" + ex.Message);
+                return BadRequest();
+            }
 
         }
     }

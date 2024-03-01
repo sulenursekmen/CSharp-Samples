@@ -1,0 +1,16 @@
+D:\C-Project\AsenkronAndMultiThread\TaskFromResultMethod\bin\Debug\net8.0\TaskFromResultMethod.exe
+D:\C-Project\AsenkronAndMultiThread\TaskFromResultMethod\bin\Debug\net8.0\taskformresult.txt
+D:\C-Project\AsenkronAndMultiThread\TaskFromResultMethod\bin\Debug\net8.0\TaskFromResultMethod.deps.json
+D:\C-Project\AsenkronAndMultiThread\TaskFromResultMethod\bin\Debug\net8.0\TaskFromResultMethod.runtimeconfig.json
+D:\C-Project\AsenkronAndMultiThread\TaskFromResultMethod\bin\Debug\net8.0\TaskFromResultMethod.dll
+D:\C-Project\AsenkronAndMultiThread\TaskFromResultMethod\bin\Debug\net8.0\TaskFromResultMethod.pdb
+D:\C-Project\AsenkronAndMultiThread\TaskFromResultMethod\obj\Debug\net8.0\TaskFromResultMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Project\AsenkronAndMultiThread\TaskFromResultMethod\obj\Debug\net8.0\TaskFromResultMethod.AssemblyInfoInputs.cache
+D:\C-Project\AsenkronAndMultiThread\TaskFromResultMethod\obj\Debug\net8.0\TaskFromResultMethod.AssemblyInfo.cs
+D:\C-Project\AsenkronAndMultiThread\TaskFromResultMethod\obj\Debug\net8.0\TaskFromResultMethod.csproj.CoreCompileInputs.cache
+D:\C-Project\AsenkronAndMultiThread\TaskFromResultMethod\obj\Debug\net8.0\TaskFromResultMethod.sourcelink.json
+D:\C-Project\AsenkronAndMultiThread\TaskFromResultMethod\obj\Debug\net8.0\TaskFromResultMethod.dll
+D:\C-Project\AsenkronAndMultiThread\TaskFromResultMethod\obj\Debug\net8.0\refint\TaskFromResultMethod.dll
+D:\C-Project\AsenkronAndMultiThread\TaskFromResultMethod\obj\Debug\net8.0\TaskFromResultMethod.pdb
+D:\C-Project\AsenkronAndMultiThread\TaskFromResultMethod\obj\Debug\net8.0\TaskFromResultMethod.genruntimeconfig.cache
+D:\C-Project\AsenkronAndMultiThread\TaskFromResultMethod\obj\Debug\net8.0\ref\TaskFromResultMethod.dll
