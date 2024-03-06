@@ -1,0 +1,10 @@
+D:\C-Project\AsenkronAndMultiThread\TaskCancellationFromApp\bin\Debug\TaskCancellationFromApp.exe.config
+D:\C-Project\AsenkronAndMultiThread\TaskCancellationFromApp\bin\Debug\TaskCancellationFromApp.exe
+D:\C-Project\AsenkronAndMultiThread\TaskCancellationFromApp\bin\Debug\TaskCancellationFromApp.pdb
+D:\C-Project\AsenkronAndMultiThread\TaskCancellationFromApp\obj\Debug\TaskCancellationFormApp.csproj.AssemblyReference.cache
+D:\C-Project\AsenkronAndMultiThread\TaskCancellationFromApp\obj\Debug\TaskCancellationFromApp.Form1.resources
+D:\C-Project\AsenkronAndMultiThread\TaskCancellationFromApp\obj\Debug\TaskCancellationFromApp.Properties.Resources.resources
+D:\C-Project\AsenkronAndMultiThread\TaskCancellationFromApp\obj\Debug\TaskCancellationFormApp.csproj.GenerateResource.cache
+D:\C-Project\AsenkronAndMultiThread\TaskCancellationFromApp\obj\Debug\TaskCancellationFormApp.csproj.CoreCompileInputs.cache
+D:\C-Project\AsenkronAndMultiThread\TaskCancellationFromApp\obj\Debug\TaskCancellationFromApp.exe
+D:\C-Project\AsenkronAndMultiThread\TaskCancellationFromApp\obj\Debug\TaskCancellationFromApp.pdb

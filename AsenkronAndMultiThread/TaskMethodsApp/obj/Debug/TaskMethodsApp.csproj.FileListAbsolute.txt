@@ -1,0 +1,7 @@
+D:\C-Project\AsenkronAndMultiThread\TaskMethodsApp\bin\Debug\TaskMethodsApp.exe.config
+D:\C-Project\AsenkronAndMultiThread\TaskMethodsApp\bin\Debug\TaskMethodsApp.exe
+D:\C-Project\AsenkronAndMultiThread\TaskMethodsApp\bin\Debug\TaskMethodsApp.pdb
+D:\C-Project\AsenkronAndMultiThread\TaskMethodsApp\obj\Debug\TaskMethodsApp.csproj.AssemblyReference.cache
+D:\C-Project\AsenkronAndMultiThread\TaskMethodsApp\obj\Debug\TaskMethodsApp.csproj.CoreCompileInputs.cache
+D:\C-Project\AsenkronAndMultiThread\TaskMethodsApp\obj\Debug\TaskMethodsApp.exe
+D:\C-Project\AsenkronAndMultiThread\TaskMethodsApp\obj\Debug\TaskMethodsApp.pdb

@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskMethodsApp", "TaskMetho
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskCancellationFormApp", "TaskCancellationFromApp\TaskCancellationFormApp.csproj", "{919AEBD4-CF5C-4878-9CEF-3CC6C9C98E81}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForEachParallelApp", "ForEachParallel\ForEachParallelApp.csproj", "{19997093-98ED-42CD-96C4-E35332F8AF5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaceConditionApp", "RaceConditionApp\RaceConditionApp.csproj", "{D6BDEC75-C3B1-4C9E-A58F-0682C2D74AA6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{919AEBD4-CF5C-4878-9CEF-3CC6C9C98E81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{919AEBD4-CF5C-4878-9CEF-3CC6C9C98E81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{919AEBD4-CF5C-4878-9CEF-3CC6C9C98E81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19997093-98ED-42CD-96C4-E35332F8AF5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19997093-98ED-42CD-96C4-E35332F8AF5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19997093-98ED-42CD-96C4-E35332F8AF5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19997093-98ED-42CD-96C4-E35332F8AF5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6BDEC75-C3B1-4C9E-A58F-0682C2D74AA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6BDEC75-C3B1-4C9E-A58F-0682C2D74AA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6BDEC75-C3B1-4C9E-A58F-0682C2D74AA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6BDEC75-C3B1-4C9E-A58F-0682C2D74AA6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
